@@ -13,3 +13,4 @@ function getFinalOpenedDoors(numDoors) {
   return result
 }
 // Explaination : Only doors numbered by a perfect square will be opened cause they will be toggled an odd number of times
+console.log(getFinalOpenedDoors(100))
